@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lq2kos41e6nn0j43?svg=true)](https://ci.appveyor.com/project/Rimma-StupaZ7/testweb)
